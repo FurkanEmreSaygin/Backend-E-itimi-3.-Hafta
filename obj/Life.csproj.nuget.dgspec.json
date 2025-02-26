@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\furky\\Desktop\\Life\\Life.csproj": {}
+    "C:\\Users\\furky\\Desktop\\Life\\Backend-E-itimi-3.-Hafta\\Life.csproj": {}
   },
   "projects": {
-    "C:\\Users\\furky\\Desktop\\Life\\Life.csproj": {
+    "C:\\Users\\furky\\Desktop\\Life\\Backend-E-itimi-3.-Hafta\\Life.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\furky\\Desktop\\Life\\Life.csproj",
+        "projectUniqueName": "C:\\Users\\furky\\Desktop\\Life\\Backend-E-itimi-3.-Hafta\\Life.csproj",
         "projectName": "Life",
-        "projectPath": "C:\\Users\\furky\\Desktop\\Life\\Life.csproj",
+        "projectPath": "C:\\Users\\furky\\Desktop\\Life\\Backend-E-itimi-3.-Hafta\\Life.csproj",
         "packagesPath": "C:\\Users\\furky\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\furky\\Desktop\\Life\\obj\\",
+        "outputPath": "C:\\Users\\furky\\Desktop\\Life\\Backend-E-itimi-3.-Hafta\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\furky\\AppData\\Roaming\\NuGet\\NuGet.Config"
