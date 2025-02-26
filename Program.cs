@@ -29,6 +29,23 @@ class Program {
             }
         }
         */
+                // --------------------- Foreach Kullanımı---------------------// 
+
+        string[] names = { "Ali", "Ayşe", "Mehmet", "Zeynep", "Hasan" }; 
+
+        foreach (string isim in names) { 
+
+            if (isim == "Zeynep") 
+
+            { 
+
+                continue; // "Zeynep" ismini atlayarak döngüye devam eder 
+
+            } 
+
+            Console.WriteLine(isim); // if döngüsüne takılmayan isimleri yazdırır. 
+
+        } 
 
 
     }
